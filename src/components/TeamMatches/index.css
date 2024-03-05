@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.team-matches-container {
+  background-image: linear-gradient(to top, #5755a7, #d91c1f);
+  background-size: cover;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+}
+.banner {
+  height: 310px;
+  margin-bottom: 12px;
+}
+.latest {
+  color: white;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 450;
+  margin-bottom: 12px;
+}
+.match-ul {
+  margin-top: 16px;
+  display: flex;
+  flex-wrap: wrap;
+}
